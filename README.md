@@ -6,8 +6,6 @@ comence haciendo un par de cursos online tal como marketing digital, community m
 
 Para mejorar mis habilidades, me inscribí en el Bootcamp Soy Henry, donde perfeccioné mis conocimientos en desarrollo web 🚀.
 
-👨‍💻 Estoy comprometido con el éxito del equipo y busco un puesto donde pueda aplicar mis habilidades y seguir creciendo profesionalmente.
-
 🛠 Tecnologías: JavaScript | React.js | Redux | Node.js | PostgreSQL | Express.js | HTML5 | CSS | SCRUM | Git/GitHub
 
-🎯 Mi objetivo es formar parte de una empresa donde pueda aplicar mis conocimientos y seguir creciendo tanto profesional como personalmente. Me apasiona proporcionar soluciones de calidad y desatar mi potencial.
+🎯 Mi objetivo es formar parte de una empresa donde pueda aplicar mis conocimientos y seguir creciendo tanto profesional como personalmente.
